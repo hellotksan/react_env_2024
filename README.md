@@ -32,7 +32,7 @@ export default {
 ## React env setup for 2024 (Step by Step)
 
 1. node -v(volta list)
-2. npm create vite@latest smaple-app -- --template react-swc-ts
+2. npm create vite@latest sample-app -- --template react-swc-ts
 3. npm run dev, build, preview
 4. tsconfig.json(path alias)
 
@@ -420,4 +420,3 @@ jobs:
 
 https://zenn.dev/tentel/articles/488dd8765fb059
 https://zenn.dev/kazukix/articles/react-setup-2024
-# react_env_2024
